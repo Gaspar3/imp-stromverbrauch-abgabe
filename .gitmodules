@@ -1,0 +1,3 @@
+[submodule "imp-stromverbrauch-sourcecode"]
+	path = imp-stromverbrauch-sourcecode
+	url = https://github.com/Gaspar3/imp-stromverbrauch-sourcecode.git
